@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an idea
+title: "[Idea] "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The goal of this extension is simplicity. Small, focused ideas have the best chance.
+  - type: textarea
+    id: what
+    attributes:
+      label: What do you want to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: How does it help you?
+    validations:
+      required: true

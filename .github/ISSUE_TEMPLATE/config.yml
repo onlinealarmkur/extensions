@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Privacy policy
+    url: https://onlinealarmkur.com/privacy/en/
+    about: How the extension handles your data.
+  - name: Online Alarm Kur website
+    url: https://onlinealarmkur.com/en/
+    about: Alarm clock and timer on the web.
